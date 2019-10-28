@@ -1,1 +1,1 @@
-# Fungal Biosynthetic Gene Clusters data
+# Fungal Biosynthetic Gene Clusters (BGCs)
