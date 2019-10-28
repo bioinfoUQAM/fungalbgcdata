@@ -1,15 +1,22 @@
 ## Fungal BGC datasets
+
 Datasets built to support the development of supervised learning approaches to identify fungal BGCs.
 Folders `pos%neg%` are named by their `%` of positive and negative instances.
 Each dataset folder is divided into:
   - train (80% of dataset instances)
   - validation (20% of dataset instances)
 
+
 ### Reference
-To cite our work:
+
+To cite our work: \
 ```H. Almeida , A. Tsang., A.B. Diallo. Supporting supervised learning in fungal Biosynthetic Gene Cluster discovery: new benchmark datasets. Machine Learning and Artificial Intelligence in Bioinformatics and Medical Informatics (MABM2019) workshop at the International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2019.```
 
+
+#### Dataset instances
+
 The number of instances in fungal BGC datasets are splitted as follows:
+
 | Dataset | Phase | Pos | Neg | Phase | Pos | Neg |
 | :----: | :----: | ----: | ----: | :----: | ----: | ----: |
 | 50\%-50\%  | Train | 160 | 160 | Validation | 40 | 40 |
