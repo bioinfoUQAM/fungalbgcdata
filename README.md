@@ -1,8 +1,10 @@
 ## Fungal BGC datasets
 
 Datasets built to support the development of supervised learning approaches to identify fungal BGCs.
+
 Files `pos%neg%` are named by their `%` of positive and negative instances.
-Each dataset file is divided into:
+
+Each dataset is divided into:
   - train (80% of dataset instances)
   - validation (20% of dataset instances)
 
