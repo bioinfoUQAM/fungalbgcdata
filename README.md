@@ -11,7 +11,8 @@ Each dataset is divided into:
 
 ### Reference
 
-To cite our work: \
+To cite our work:  
+http://arxiv.org/abs/2001.03260 \
 ```H. Almeida , A. Tsang., A.B. Diallo. Supporting supervised learning in fungal Biosynthetic Gene Cluster discovery: new benchmark datasets. Machine Learning and Artificial Intelligence in Bioinformatics and Medical Informatics (MABM2019) workshop at the International Conference on Bioinformatics and Biomedicine (IEEE BIBM), 2019.```
 
 
